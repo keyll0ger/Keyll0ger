@@ -67,7 +67,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 ---
 
-#### **[RustyMimikatz](https://github.com/keyll0ger/RustyMimikatz)** *(Nom provisoire)*
+#### **[RSKATZ](https://github.com/keyll0ger/RSKatz)** *(Nom provisoire)*
 **Réimplémentation partielle de Mimikatz en Rust**
 - **Cible** : Extraction de crédentials en mémoire (LSASS, Kerberos, etc.) **sans déclencher les AVs classiques**.
 - **Avantages** :
