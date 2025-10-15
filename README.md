@@ -58,8 +58,10 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 ---
 
 ### **🌌 Projets & Expérimentations**
-🔹 **[Projet Mystère 1](lien)** – *"Un outil qui fait X… mais en mieux. Probablement."* *(spoiler : du reverse ou de la crypto)*/n
+🔹 **[Projet Mystère 1](lien)** – *"Un outil qui fait X… mais en mieux. Probablement."* *(spoiler : du reverse ou de la crypto)*
+
 🔹 **[Projet Mystère 2](lien)** – *"Parce que personne ne devrait faire Y à la main en 2024."*
+
 🔹 **[Petits Scripts Utile](lien)** – Des trucs qui m’ont sauvé la mise (et qui pourraient vous sauver aussi).
 
 *(PS : Si un repo est privé, c’est soit en cours de polish, soit trop embarrassant. Demandez toujours.)*
@@ -69,7 +71,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 ### **📡 Où me trouver ?**
 - **📧 Email** : [ton.email@domaine.com] *(pour les propositions sérieuses ou les blagues en Rust)*
 - **💬 [Autre réseau]** : [@ton-pseudo] *(pour les discussions tech, les CTF, ou les mèmes de segfault)*
-- **🌐 [Portfolio/Site Perso]** : [lien] *(si vous aimez les designs sobre et les détails techniques)*
+- **🌐 [Portfolio/Site Perso]** : [[lien](https://keyll0ger.github.io/Portfolio/)] *(si vous aimez les designs sobre et les détails techniques)*
 
 ---
 
