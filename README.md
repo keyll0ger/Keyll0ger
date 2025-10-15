@@ -1,5 +1,5 @@
 <h3 align="center">
-  🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné par les systèmes qui ne veulent pas l’être
+  🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné de Cyber
 </h3>
 <!-- BANNER HTB -->
 <p align="center">
