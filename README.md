@@ -1,6 +1,6 @@
-<h2 align="center">
-  **🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné par les systèmes qui ne veulent pas l’être**
-</h2>
+<h3 align="center">
+  🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné par les systèmes qui ne veulent pas l’être
+</h3>
 
 Je code des trucs qui **fonctionnent** (parfois même comme prévu).
 Spécialisé dans l’art de faire parler les machines… **sans qu’elles râlent trop**.
