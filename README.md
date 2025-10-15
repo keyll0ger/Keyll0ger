@@ -28,8 +28,9 @@
 
 <!-- TERMINAL GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxYW1xZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/3o7TKTU8NQNQfzQxYc/giphy.gif" width="600" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZxYzJxZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/IwAZ6dmmRgxKs/giphy.gif" alt="Terminal GIF" width="600" />
 </p>
+
 
 Je code des trucs qui **fonctionnent** (parfois même comme prévu).
 Spécialisé dans l’art de faire parler les machines… **sans qu’elles râlent trop**.
