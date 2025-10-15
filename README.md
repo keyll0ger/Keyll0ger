@@ -40,7 +40,19 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 - **Philosophie** : *"Si c’est lent, optimise. Si c’est cassé, reverse. Si c’est ennuyeux, automatise."*
 
 ---
-
+<p align="center">
+  <a href="https://github.com/ton-pseudo/RustixC2">
+    <img src="https://img.shields.io/badge/-Rust-black?style=for-the-badge&logo=rust" />
+  </a>
+  <a href="https://docs.rs/tokio">
+    <img src="https://img.shields.io/badge/Async-Tokio-purple?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ton-pseudo/RustixC2/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/ton-pseudo/RustixC2/rust.yml?branch=main&style=for-the-badge&logo=github" />
+  </a>
+  <br>
+  <sub>🛡️ *"Aucun shellcode n’a été blessé pendant le développement (enfin… presque)."*</sub>
+</p>
 ### **🌌 Projets & Expérimentations**
 🔹 **[Projet Mystère 1](lien)** – *"Un outil qui fait X… mais en mieux. Probablement."* *(spoiler : du reverse ou de la crypto)*
 
