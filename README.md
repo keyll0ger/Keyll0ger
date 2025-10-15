@@ -10,6 +10,28 @@
 Je code des trucs qui **fonctionnent** (parfois même comme prévu).
 Spécialisé dans l’art de faire parler les machines… **sans qu’elles râlent trop**.
 
+<!-- BANNER HTB -->
+<p align="center">
+  <img src="https://www.hackthebox.com/images/logo-htb.svg" width="200" alt="HackTheBox" />
+</p>
+
+<!-- TYPING ANIMATION -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2000&color=00FF00&center=true&lines=HackTheBox+Dashboard;Rooted+%3A+20+Machines;User+Owns+%3A+40;Rank+%3A+Hacker" />
+</h1>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Rooted-20-%2300FF00?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/User-40-%230078D4?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Rank-Hacker-%23FF6600?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Blood-%23FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</p>
+
+<!-- TERMINAL GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxYW1xZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/3o7TKTU8NQNQfzQxYc/giphy.gif" width="600" />
+</p>
 ---
 <!-- TITLE ANIMÉ -->
 <h1 align="center">
