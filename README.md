@@ -18,7 +18,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2000&color=00FF00&center=true&lines=HackTheBox+Dashboard;Rooted+%3A+33+Machines;User+Owns+%3A+36;Rank+%3A+Hacker" />
 </h1>
 <p align="center">
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
   ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
