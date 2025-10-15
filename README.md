@@ -24,7 +24,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 <!-- STATS -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Keyll0ger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyll0ger&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Keyll0ger&theme=dark&hide_border=true&border_radius=10&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
 </p>
 ---
 
