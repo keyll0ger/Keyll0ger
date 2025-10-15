@@ -13,7 +13,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 ---
 <!-- TITLE ANIMÉ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+[Ton+Pseudo];Dev+Python+&+Rust;Cyber+enthusiast;Break+things+to+learn" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+[Keyll0ger];Dev+Python+&+Rust;Cyber+enthusiast;Break+things+to+learn" />
 </h1>
 
 <!-- TERMINAL GIF -->
@@ -23,8 +23,8 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 <!-- STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Keyll0ger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keyll0ger&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
 </p>
 ---
 
