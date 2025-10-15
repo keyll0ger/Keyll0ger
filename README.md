@@ -41,7 +41,14 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 
 ### **🌌 Projets & Expérimentations**
-🔹 **[Projet Mystère 1](lien)** – *"Un outil qui fait X… mais en mieux. Probablement."* *(spoiler : du reverse ou de la crypto)*
+🔹 **<p align="center">
+  **[RustixC2](https://github.com/ton-pseudo/RustixC2)** –
+  *"Un **C2** écrit en Rust parce que le **C++**, c’était trop lent. Et le Python… bon, on en parle pas. 🐍⚰️"*
+  *(Spoiler : **furtif**, **modulaire**, et probablement déjà dans un rapport de menace quelque part.)*
+  <br>
+  <sub>⚠️ *"Pour usage éducatif uniquement. Ou alors si tu aimes les visites du FBI. À toi de voir."*</sub>
+</p>
+
 
 🔹 **[Projet Mystère 2](lien)** – *"Parce que personne ne devrait faire Y à la main en 2024."*
 
