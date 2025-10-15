@@ -54,7 +54,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 ### **📡 Où me trouver ?**
 - **📧 Email** : [ton.email@domaine.com] *(pour les propositions sérieuses ou les blagues en Rust)*
-- **💬 [Discord]** : [@keyll0ger_35583] *(pour les discussions tech, les CTF, ou les mèmes de segfault)*
+- **💬 [Discord]** : [[lien](https://discordapp.com/users/1328391152776515599)] *(pour les discussions tech, les CTF, ou les mèmes de segfault)*
 - **🌐 [Portfolio/Site Perso]** : [[lien](https://keyll0ger.github.io/Portfolio/)] *(si vous aimez les designs sobre et les détails techniques)*
 
 ---
