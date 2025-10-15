@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=whit" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Rank-Hacker-%23FF6600?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" />
 </p>
 <!-- BADGES -->
