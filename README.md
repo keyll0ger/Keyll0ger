@@ -17,13 +17,13 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 <!-- TYPING ANIMATION -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2000&color=00FF00&center=true&lines=HackTheBox+Dashboard;Rooted+%3A+20+Machines;User+Owns+%3A+40;Rank+%3A+Hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2000&color=00FF00&center=true&lines=HackTheBox+Dashboard;Rooted+%3A+33+Machines;User+Owns+%3A+36;Rank+%3A+Hacker" />
 </h1>
 
 <!-- BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Rooted-20-%2300FF00?style=for-the-badge&logo=hackthebox" />
-  <img src="https://img.shields.io/badge/User-40-%230078D4?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/Rooted-33-%2300FF00?style=for-the-badge&logo=hackthebox" />
+  <img src="https://img.shields.io/badge/User-36-%230078D4?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/Rank-Hacker-%23FF6600?style=for-the-badge&logo=hackthebox" />
   <img src="https://img.shields.io/badge/Blood-%23FF0000?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
