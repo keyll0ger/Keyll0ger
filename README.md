@@ -42,7 +42,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 ### **🌌 Projets & Expérimentations**
 🔹 <p align="center">
-  **[RustixC2](https://github.com/ton-pseudo/RustixC2)** –
+  **[RustixC2](https://github.com/keyll0ger/RustixC2)** –
   *"Un **C2** écrit en Rust parce que le **C++**, c’était trop lent. Et le Python… bon, on en parle pas. 🐍⚰️"*
   *(Spoiler : **furtif**, **modulaire**, et probablement déjà dans un rapport de menace quelque part.)*
   <br>
