@@ -1,5 +1,3 @@
-# [Keyll0ger]
-
 **🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné par les systèmes qui ne veulent pas l’être**
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -32,23 +30,6 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJxYW1xZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/3o7TKTU8NQNQfzQxYc/giphy.gif" width="600" />
 </p>
----
-<!-- TITLE ANIMÉ -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+[Keyll0ger];Dev+Python+&+Rust;Cyber+enthusiast;Break+things+to+learn" />
-</h1>
-
-<!-- TERMINAL GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZxYzJxZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/IwAZ6dmmRgxKs/giphy.gif" width="600" />
-</p>
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Keyll0ger&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Keyll0ger&theme=dark&hide_border=true&border_radius=10&date_format=n%2Fj%5B%2FY%5D" alt="GitHub Streak" /></a>
-</p>
----
 
 ### **🛠️ Ce que je touche (sans tout casser)**
 - **Langages** : Python (pour les scripts qui sauvent des heures), Rust (pour les projets qui doivent survivre à l’apocalypse).
