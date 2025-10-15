@@ -58,7 +58,7 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 ---
 
 ### **🌌 Projets & Expérimentations**
-🔹 **[Projet Mystère 1](lien)** – *"Un outil qui fait X… mais en mieux. Probablement."* *(spoiler : du reverse ou de la crypto)*
+🔹 **[Projet Mystère 1](lien)** – *"Un outil qui fait X… mais en mieux. Probablement."* *(spoiler : du reverse ou de la crypto)*/n
 🔹 **[Projet Mystère 2](lien)** – *"Parce que personne ne devrait faire Y à la main en 2024."*
 🔹 **[Petits Scripts Utile](lien)** – Des trucs qui m’ont sauvé la mise (et qui pourraient vous sauver aussi).
 
