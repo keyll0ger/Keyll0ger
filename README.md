@@ -27,7 +27,7 @@
 
 <!-- TERMINAL GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZxYzJxZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/IwAZ6dmmRgxKs/giphy.gif" alt="Terminal GIF" width="600" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Terminal GIF" width="600" />
 </p>
 
 
