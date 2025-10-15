@@ -1,6 +1,9 @@
-# [Keyll0ger]
+#[Keyll0ger]
 
 **🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné par les systèmes qui ne veulent pas l’être**
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 
 Je code des trucs qui **fonctionnent** (parfois même comme prévu).
 Spécialisé dans l’art de faire parler les machines… **sans qu’elles râlent trop**.
