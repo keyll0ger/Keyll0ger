@@ -1,6 +1,7 @@
 <h3 align="center">
   🔍 Développeur curieux | 🐍 Python & 🦀 Rust | 🖥️ Passionné de Cyber
 </h3>
+</br>
 <!-- BANNER HTB -->
 <p align="center">
   <img src="https://www.hackthebox.com/images/logo-htb.svg" width="200" alt="HackTheBox" />
