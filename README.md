@@ -11,6 +11,22 @@ Je code des trucs qui **fonctionnent** (parfois même comme prévu).
 Spécialisé dans l’art de faire parler les machines… **sans qu’elles râlent trop**.
 
 ---
+<!-- TITLE ANIMÉ -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+[Ton+Pseudo];Dev+Python+&+Rust;Cyber+enthusiast;Break+things+to+learn" />
+</h1>
+
+<!-- TERMINAL GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ZxYzJxZzlwZzJxZW5xbnNxYW1wZW1xYXVxYXJzYW1xYXJzYQ/IwAZ6dmmRgxKs/giphy.gif" width="600" />
+</p>
+
+<!-- STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ton-pseudo&theme=tokyonight&hide_border=true&background=00000000" alt="Streak" />
+</p>
+---
 
 ### **🛠️ Ce que je touche (sans tout casser)**
 - **Langages** : Python (pour les scripts qui sauvent des heures), Rust (pour les projets qui doivent survivre à l’apocalypse).
