@@ -34,27 +34,68 @@
 Je code des trucs qui **fonctionnent** (parfois même comme prévu).
 Spécialisé dans l’art de faire parler les machines… **sans qu’elles râlent trop**.
 
-### **🛠️ Ce que je touche (sans tout casser)**
-- **Langages** : Python (pour les scripts qui sauvent des heures), Rust (pour les projets qui doivent survivre à l’apocalypse).
-- **Outils** : Ceux qui commencent par `git`, `cargo`, `nmap`… et ceux qu’on ne cite pas en public.
-- **Philosophie** : *"Si c’est lent, optimise. Si c’est cassé, reverse. Si c’est ennuyeux, automatise."*
+---
+### **🛠️ Stack Technique**
+**Langages** :
+`Rust` *(pour les projets où la performance et la sécurité mémoire sont critiques)*
+`Python` *(automatisation, scripts offensifs, et tout ce qui doit être rapide à déployer)*
+`C` *(quand il faut coller au métal ou réimplémenter des primitives système)*
 
+**Outils** :
+`git`/`cargo`/`nmap` *(la base)*
+`Ghidra`/`x64dbg` *(pour quand le code devient... mystérieux)*
+`Wireshark`/`TShark` *(parce que les paquets mentent rarement)*
 
-### **🌌 Projets & Expérimentations**
-<p align="center">
-  **[RustixC2](https://github.com/keyll0ger/RustixC2)** –
-  *"Un **C2** écrit en Rust parce que le **C++**, c’était trop lent. Et le Python… bon, on en parle pas. 🐍⚰️"*
-  *(Spoiler : **furtif**, **modulaire**, et probablement déjà dans un rapport de menace quelque part.)*
-  <br>
-  <sub>⚠️ *"Pour usage éducatif uniquement. Ou alors si tu aimes les visites du FBI. À toi de voir."*</sub>
-</p>
+**Philosophie** :
+> *"Code propre, exécution silencieuse.
+> Si c'est lent → **optimise**.
+> Si c'est cassé → **debug** (ou réécris en Rust).
+> Si c'est répétitif → **automatise**."*
 
+---
 
-🔹 **[Projet Mystère 2](lien)** – *"Parce que personne ne devrait faire Y à la main en 2024."*
+### **🚀 Projets Phares**
 
-🔹 **[Petits Scripts Utile](lien)** – Des trucs qui m’ont sauvé la mise (et qui pourraient vous sauver aussi).
+#### **[RustixC2](https://github.com/keyll0ger/RustixC2)**
+**Framework C2 post-exploitation en Rust**
+- **Furtivité** : Communication chiffrée (TLS 1.3), trafic mimétique, et évasion des solutions EDR modernes.
+- **Modularité** : Plugins dynamiques pour l'exfiltration, la persistance, et l'escalade de privilèges.
+- **Performance** : Asynchrone (Tokio), faible empreinte mémoire, et cross-platform (Windows/Linux).
 
-*(PS : Si un repo est privé, c’est soit en cours de polish, soit trop embarrassant. Demandez toujours.)*
+> *"Conçu pour les tests d'intrusion avancés.
+> **Usage éducatif uniquement** — ou pour ceux qui aiment les lettres de la part d'avocats."*
+
+---
+
+#### **[RustyMimikatz](https://github.com/keyll0ger/RustyMimikatz)** *(Nom provisoire)*
+**Réimplémentation partielle de Mimikatz en Rust**
+- **Cible** : Extraction de crédentials en mémoire (LSASS, Kerberos, etc.) **sans déclencher les AVs classiques**.
+- **Avantages** :
+  - Pas de dépendances externes (100% Rust, pas de `sekurlsa.dll` suspecte).
+  - Intégration avec **RustixC2** pour une exfiltration discrète.
+- **Statut** : *Work in Progress* (les PRs sont les bienvenues... si vous connaissez le WinAPI).
+
+> *"Parce que `Invoke-Mimikatz` en PowerShell, c'est **2015**."*
+
+---
+
+#### **[Projet #3]()** *(À définir — suggestions bienvenues !)*
+**Idées en cours** :
+- Un **fuzzer** spécialisé pour les protocoles réseau obscurs.
+- Un **outils d'analyse de binaires** avec une IA qui détecte les patterns de malware.
+- Un **keylogger éducatif** (parce que *Keyll0ger*, quand même).
+
+> *"Si vous avez une idée de projet **offensif/défensif** qui manquerait à l'écosystème, ouvrez une *Issue* !"*
+
+---
+
+### **🔒 Notes**
+- **Repos privés** ? Soit :
+  - En cours de **nettoyage** (oui, même les pros ont des `todo!()` oubliés).
+  - Trop **sensible** pour GitHub (demandez en DM avec un bon motif).
+- **Contributions** :
+  - Les PRs sont les bienvenues, **surtout si vous corrigez mes `unwrap()`**.
+  - *"Le code est comme un shellcode : **plus il est petit, mieux c'est**."*
 
 ---
 
