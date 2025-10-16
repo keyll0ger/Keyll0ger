@@ -102,12 +102,12 @@ Spécialisé dans l’art de faire parler les machines… **sans qu’elles râl
 
 ### **📡 Où me trouver ?**
 - **💬 [Discord]** : [[lien](https://discordapp.com/users/1328391152776515599)] *(pour les discussions tech, les CTF, ou les mèmes de segfault)*
-- **🌐 [Portfolio/Site Perso]** : [[lien](https://keyll0ger.github.io/Portfolio/)] *(si vous aimez les designs sobre et les détails techniques)*
+- **🌐 [Portfolio/Site Perso]** : [[lien](https://keyll0ger.github.io/Portfolio/)] **
 
 ---
 
 ### **⚡ Fun Fact (ou pas)**
-> *"Mon premier 'Hello World' en Rust a compilé… après 3 jours de combat avec le borrow checker.
+> *"Mon premier 'Hello World' en Rust a compilé… après 3 jour.
 > Depuis, je considère ça comme un rite de passage."*
 
 ---
