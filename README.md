@@ -9,7 +9,7 @@
 
 <!-- TYPING ANIMATION -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2000&color=00FF00&center=true&lines=HackTheBox+Dashboard;Rooted+%3A+33+Machines;User+Owns+%3A+36;Rank+%3A+Hacker" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=30&duration=2000&color=00FF00&center=true&lines=HackTheBox+Dashboard;Rooted+%3A+45+Machines;User+Owns+%3A+40;Rank+%3A+Hacker" />
 </h2>
 
 <p align="center">
